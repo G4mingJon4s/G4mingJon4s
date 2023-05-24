@@ -7,5 +7,5 @@ There's only one rule. Credit copied code. Always.
 
 
 # ![icons8-combo-chart-24](https://user-images.githubusercontent.com/40526179/205460752-f1e2bbd8-70e9-4f04-bbb1-c43f42108d2b.png) Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4mingjon4s&theme=tokyonight&layout=compact)
-![G4mingJon4s's GitHub stats](https://github-readme-stats.vercel.app/api?username=g4mingjon4s&theme=tokyonight&show_icons=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g4mingjon4s&theme=tokyonight&layout=compact)
+![G4mingJon4s's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=g4mingjon4s&theme=tokyonight&show_icons=true&hide=issues,contribs)
